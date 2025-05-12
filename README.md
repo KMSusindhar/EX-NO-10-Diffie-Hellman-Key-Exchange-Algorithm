@@ -1,8 +1,8 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
 
 
-## NAME: ROHITH V
-## REG NO:212223040174
+## NAME: SUSINDHAR K M
+## REG NO:212223040218
 
 
 ## AIM:
